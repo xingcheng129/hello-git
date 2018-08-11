@@ -1,0 +1,14 @@
+.block_icon{
+	margin-bottom: 10px;
+}
+.block_icon>img{
+	margin: 0 auto;
+    width: 36px;
+    height: 36px;
+}
+.nav-between{
+	display: flex;
+	justify-content: space-between;
+    padding-top: 10px;
+	color: #999;
+}
